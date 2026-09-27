@@ -1,0 +1,19 @@
+sumar, contar, promedio (parte numerica y de texto)
+
+
+
+
+Cual es la edad minima y maxima de los pensionados?  O
+Sueldo promedio de los pensionados por carrera profesional?  O
+Cuantas personas pertenecen a cada fondo de pension?  O
+Cuantas ciudades presenta cada carrera profesional?  O
+Que carrera Profesional presenta un sueldo promedio mayor?  (repetido)
+
+Que carreras se presentan en cada ciudad?    X
+Que carrera Profesional presenta un sueldo mayor?   X
+
+
+
+
+
+ 

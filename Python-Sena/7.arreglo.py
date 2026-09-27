@@ -1,0 +1,13 @@
+# UN ARREGLO UNIDIMENSIONAL ES UN CONJUNTO DE DATOS DEL MISMO TIPO, QUE SE ALMACENAN EN UNA SOLA VARIABLE.
+
+arreglo = [10, 20, 30, 40, 50]
+
+# UN ARREGLO BIDIMENSIONAL ES UN CONJUNTO DE DATOS ORDENADOS EN FILAS Y COLUMNAS
+# ES UNA MATRIZ
+
+matriz = [
+    [1, 2, 3, 4],
+    [2, 4, 6, 8]
+]
+# Acceder al elemento de la fila 0, columna 2
+print(matriz[0][2])  # Resultado: 3
