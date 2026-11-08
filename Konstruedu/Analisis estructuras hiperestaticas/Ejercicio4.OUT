@@ -1,0 +1,20 @@
+
+
+ ETABS Ultimate 64-bit 23.3.2 Build 4670 (Analysis Build 10006/64)              
+ File: C:\Cursos\Analisis estructuras hiperestaticas\Ejercicio4.OUT             
+                                                                     
+                                                                       
+
+ D I S P L A C E M E N T   D E G R E E S   O F   F R E E D O M
+
+         (A) = Active DOF, equilibrium equation
+         (-) = Restrained DOF, reaction computed
+         (+) = Constrained DOF
+         (>) = External substructure DOF
+         ( ) = Null DOF
+
+  JOINTS              UX  UY  UZ  RX  RY  RZ
+       3               -   -   -   A   A   A
+       4 TO      14    A   A   A   A   A   A
+      15               -   -   -   A   A   A
+      16               A   A   A   A   A   A
