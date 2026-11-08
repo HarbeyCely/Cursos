@@ -1,0 +1,6 @@
+Taller 1 Power BI
+1. ¿Cuáles son los 3 clientes con el mayor aporte histórico en la facturación total?
+2. ¿Qué cliente tiene la compra más frecuente y cuál es su ticket promedio antes de impuestos?
+3. ¿Qué cliente acumula la mayor cantidad de impuestos pagados en un trimestre o año específico?	
+4. ¿Qué clientes tienen facturas individuales cuyo valor supera el promedio general de facturación?
+5. ¿Cuál fue el cliente estrella durante el mes con el mayor pico de ventas de la empresa?
