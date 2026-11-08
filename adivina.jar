@@ -1,0 +1,42 @@
+import java.util.Scanner;
+
+public class PrimeraClase {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+	
+		
+		int numeroAdivinar = (int)(Math.random()*100);
+		
+		int numero = 0;
+		int contador = 0;
+		
+		while((numero==numeroAdivinar)==false) {
+			
+		
+			
+			Scanner entrada= new Scanner(System.in);
+			
+			System.out.println("ingresa el numero");
+		
+			numero = entrada.nextInt();
+			
+			 if(numero>numeroAdivinar) {
+				 System.out.println("Estas por arriba");
+				 contador++;
+			 }
+			 else {
+				 System.out.println("Estas por debajo");
+				 contador++;
+			 }
+			 
+			
+			
+		
+			 
+		}
+		
+		System.out.println("el numero a adiviniar fue " + numeroAdivinar + " y los intentos fueron " + contador);
+		
+	}
+}
